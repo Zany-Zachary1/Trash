@@ -9,4 +9,4 @@ Actions=trash;
 
 [Desktop Action trash]
 Name=Empty Trash
-Exec=rm -rf ~/.local/share/Trash/files/*
+Exec=trash-empty
