@@ -12,4 +12,4 @@ run install-local.sh
 Create the startup application as seen above, but with the command box, place "python /home/$USER/.local/share/MacTrash/mactrash.py"
 
 
-The Empty Trash feature doesn not work as of yet, but I am working on it.
+The Empty Trash feature has been finished!  Empty trash now Works!
