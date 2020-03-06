@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Name=Trash
+Comment=Trash
+Icon=user-trash-full
+Exec=nautilus trash://
+Categories=Utility;
+Actions=trash;
+
+[Desktop Action trash]
+Name=Empty Trash
+Exec=rm -rf ~/.local/share/Trash/files/*
